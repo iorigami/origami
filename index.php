@@ -207,7 +207,7 @@ if ( window.history.replaceState ) {
 <body class="box_script" style="text-align:center">
 	<center>
 		<a href="login.php" onClick="logout()">
-		<img src="img/logo.png" width: "489" height: "100"></a>
+		<img src="img/logo.png" width: 100%></a>
 	</center>
     <form method="post">
 		<center>
