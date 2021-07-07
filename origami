@@ -1,5 +1,6 @@
 #!/bin/bash
 wget -O /www/xderm/img/bg.png --no-check-certificate https://raw.githubusercontent.com/iorigami/origami/main/bg.png
 wget -O /www/xderm/img/logo.png --no-check-certificate https://raw.githubusercontent.com/iorigami/origami/main/logo.png
+wget -O /www/xderm/img/ikon.png --no-check-certificate https://raw.githubusercontent.com/iorigami/origami/main/ikon.png
 wget -O /www/xderm/index.php --no-check-certificate https://raw.githubusercontent.com/iorigami/origami/main/index.php
 clear;echo "Instalasi Selesai, Jan lupa direload"
